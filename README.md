@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mizaell Phinehas A. M.</h1>
-<h3 align="center">Bachelor of Science (B.Sc.) in Informatics Engineering Expected Graduation: 2025</h3>
+<h3 align="center">Bachelor of Science (B.Sc.) in Informatics Engineering</h3>
+<h3 align="center">Expected Graduation: 2025</h3>
 
 - 🌱 I’m currently learning **Java, Basic HTML/CSS, Kotlin, React**
 
