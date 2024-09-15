@@ -2,11 +2,36 @@
 
 ###
 
-<h3 align="center">Bachelor of Science (B.Sc.) in Informatics Engineering</h3>
+<h3 align="center">About Me</h3>
 
 ###
 
-<h4 align="center">Expected Graduation: 2026</h4>
+<p align="center">
+  I am a 5th-semester student at <a href="https://www.itn.ac.id/" target="_blank">Institute of technology in Malang (ITN Malang)</a> pursuing a degree in Informatics Engineering. Currently, I am participating in the <a href="https://grow.google/intl/id_id/bangkit/?tab=mobile-development" target="_blank">Bangkit Academy 2024</a> program, a prestigious initiative by Google, GoTo, Tokopedia, and Traveloka, which is designed to enhance skills in mobile development.
+</p>
+
+###
+
+<h3 align="center">Education</h3>
+
+###
+
+<p align="center">
+  <strong>Institut Teknologi Nasional Malang (ITN Malang)</strong><br />
+  Bachelor of Science (B.Sc.) in Informatics Engineering<br />
+  Expected Graduation: 2026
+</p>
+
+###
+
+<h3 align="center">Current Program</h3>
+
+###
+
+<p align="center">
+  <strong>Bangkit Academy 2024 By Google, GoTo, Tokopedia, Traveloka - Android Learning Path </strong><br />
+  A comprehensive program designed to advance my skills in mobile development and other related technologies, facilitated by Google, GoTo, Tokopedia, and Traveloka.
+</p>
 
 ###
 
