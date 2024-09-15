@@ -90,6 +90,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://66.media.tumblr.com/ee5169a677d71323105a5210404f474d/tumblr_ptp22tbWHk1tgo74ho1_1280.gif"  />
+<img align="center" height="150" src="https://66.media.tumblr.com/ee5169a677d71323105a5210404f474d/tumblr_ptp22tbWHk1tgo74ho1_1280.gif"  />
 
 ###
