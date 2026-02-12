@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-  I am a 5th-semester student at Institute of technology in Malang (ITN Malang) pursuing a degree in Informatics Engineering. Currently, I am participating in the <a href="https://grow.google/intl/id_id/bangkit/?tab=mobile-development" target="_blank">Bangkit Academy 2024</a> program, a prestigious initiative by Google, GoTo, Tokopedia, and Traveloka, which is designed to enhance skills in mobile development.
+  I am a 7th-semester student at Institute of technology in Malang (ITN Malang) pursuing a degree in Informatics Engineering. Currently, I am participating in the <a href="https://grow.google/intl/id_id/bangkit/?tab=mobile-development" target="_blank">Bangkit Academy 2024</a> program, a prestigious initiative by Google, GoTo, Tokopedia, and Traveloka, which is designed to enhance skills in mobile development.
 </p>
 
 ###
